@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityEssentials</string>
+    <string name="name">Name</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_some_text">Enter Some Text</string>
+    <string name="back">Back</string>
+    <string name="user_message">User Message</string>
+</resources>
